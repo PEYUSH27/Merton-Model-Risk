@@ -3,6 +3,7 @@ Merton Model Implementation in Python
 
 This notebook implements the Merton Model, a structural model for credit risk that treats equity as a call option on a firm’s assets. Using firm value, debt, volatility, and risk-free rate, it calculates:
 1-Distance to Default (DD)
+
 2-Probability of Default (PD)
 3-Equity value as an option
 4-Credit spread
